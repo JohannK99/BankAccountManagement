@@ -102,3 +102,4 @@ C:\Johann\Ciclo 2024-1\Programacion 1\BankAccountManagement\bin\Debug\net8.0\ru\
 C:\Johann\Ciclo 2024-1\Programacion 1\BankAccountManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Johann\Ciclo 2024-1\Programacion 1\BankAccountManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Johann\Ciclo 2024-1\Programacion 1\BankAccountManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Johann\Ciclo 2024-1\Programacion 1\BankAccountManagement\obj\Debug\net8.0\BankAccountManagement.sourcelink.json
