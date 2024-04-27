@@ -5,7 +5,7 @@ public class Startup
 {
     public IConfiguration Configuration { get; } // Declarar una propiedad para Configuration
 
-    // Constructor que recibe IConfiguration y la asigna a la propiedad
+
     public Startup(IConfiguration configuration)
     {
         Configuration = configuration;
@@ -15,7 +15,6 @@ public class Startup
     {
         services.AddControllersWithViews();
 
-        // Acceder a la cadena de conexión desde Configuration
         var connectionString = Configuration.GetConnectionString("DefaultConnection");
         
         services.AddDbContext<BankAccountContext>(options =>
